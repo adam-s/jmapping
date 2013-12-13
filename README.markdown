@@ -3,7 +3,7 @@ jMapping - Google Maps jQuery Plugin
 
 This plugin is designed for quick development of a page that implements 
 a Google Map with a list of the locations that are specified within the HTML.
-
+change a little
 
 ### Links
 
